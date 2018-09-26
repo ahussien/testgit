@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-Ahmed and John
-John
->>>>>>> c438d2080e4957faeab55a7896843bec24852199
+John Changed again
