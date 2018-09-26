@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-John Changed again
-=======
-AHmed Changed again
-
->>>>>>> my changes again
+Ok 
